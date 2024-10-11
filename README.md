@@ -29,6 +29,8 @@ In my blog post, I'll take a fresh approach by adhering to the CRISP-DM process 
 
 Following the CRISP-DM process, I'll systematically analyze and preprocess the data, build predictive models, and present the findings in a comprehensive blog post and notebook. This project will allow me to showcase my skills, including data exploration, feature engineering, model selection, and result interpretation.
 
+![Answering House Prices Questions using Advanced Regression Techniques](answering-house-prices-questions-based-on-advanced-regression-techniques-files/breno-assis-r3WAWU5Fi5Q-unsplash_1280x784.jpg)
+
 ## Exploring the Data
 
 To start the project, I imported the packages, defined the global variables, and read the Ames, Iowa train dataset CSV file.
@@ -6832,3 +6834,5 @@ This experience deepened my understanding of the data science workflow and the C
 Attribution 4.0 International - CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/anibalsanchez/answering-house-prices-questions-based-on-advanced-regression-techniques">Answering House Prices Questions using Advanced Regression Techniques</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/anibalsanchez/">Anibal H. Sanchez Perez</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+Photo by <a href="https://unsplash.com/@brenoassis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Breno Assis</a> on <a href="https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
