@@ -2,11 +2,11 @@
 
 ## Background
 
-As a Udemy [Data Scientist](https://www.udacity.com/enrollment/nd025) Nanodegree Program student, I'm tasked with writing a blog post and a kernel following the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process.
+As a Udemy [Data Scientist](https://www.udacity.com/enrollment/nd025) Nanodegree Program student, I'm tasked with writing a blog post and a kernel following the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process. In my blog post, I'll take a fresh approach by adhering to the CRISP-DM process to address three fundamental questions often posed in the housing markets, using the Ames dataset as a case study.
 
 The Kaggle [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition is a fantastic playground for budding data scientists like myself. It challenges us to predict house prices in Ames, Iowa, leveraging 79 predictor variables through machine learning models. This well-analyzed dataset has received over 20,000 submissions, making it an excellent resource for developing and showcasing our skills.
 
-The notebook and source code is available here:
+The notebook and source code are available here:
 
 - Blog post: <https://blog.anibalhsanchez.com/en/blogging/85-answering-house-prices-questions-using-advanced-regression-techniques.html>
 - Repository: <https://github.com/anibalsanchez/answering-house-prices-questions-based-on-advanced-regression-techniques>
@@ -25,7 +25,7 @@ In my blog post, I'll take a fresh approach by adhering to the CRISP-DM process 
 
 ### What variables best predict the price range of each home?
 
-**Identify the key variables that best predict the price range of each home**. The dataset contains numerous features describing various aspects of the houses, such as the number of bedrooms, bathrooms, lot size, construction materials, and neighborhood characteristics. Determining the most influential variables that accurately predict the price range for individual homes is vital. This information can guide feature engineering efforts and ensure the most relevant predictors are included in the modeling process.
+**Identify the key variables that best predict the price range of each home**. Determining the most influential variables that accurately predict the price range for individual homes.
 
 Following the CRISP-DM process, I'll systematically analyze and preprocess the data, build predictive models, and present the findings in a comprehensive blog post and notebook. This project will allow me to showcase my skills, including data exploration, feature engineering, model selection, and result interpretation.
 
